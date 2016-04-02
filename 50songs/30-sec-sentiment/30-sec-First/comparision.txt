@@ -1,0 +1,10 @@
+songID = 48 OriginalTag = 0 svmTag = 0 naiveTag = 0
+songID = 23 OriginalTag = 1 svmTag = 1 naiveTag = 0
+songID = 47 OriginalTag = 0 svmTag = 0 naiveTag = 1
+songID = 24 OriginalTag = 1 svmTag = 0 naiveTag = 0
+songID = 49 OriginalTag = 0 svmTag = 1 naiveTag = 1
+songID = 21 OriginalTag = 1 svmTag = 1 naiveTag = 0
+songID = 46 OriginalTag = 0 svmTag = 1 naiveTag = 1
+songID = 50 OriginalTag = 0 svmTag = 0 naiveTag = 1
+songID = 25 OriginalTag = 1 svmTag = 1 naiveTag = 1
+songID = 22 OriginalTag = 1 svmTag = 1 naiveTag = 1
